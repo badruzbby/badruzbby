@@ -12,7 +12,7 @@ My Name is Badruz, now Im focus on learning python language
   - ✨ Machine learning ✨
 
 
-**Member at : **
+Member at : 
   - [gh05tc0der](https://github.com/gh05tc0der)
 
 <br>
