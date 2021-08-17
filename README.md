@@ -15,7 +15,7 @@ My Name is Badruz, now Im focus on learning python language
   - [gh05tc0der](https://github.com/gh05tc0der)
 
 <br>
-<br>
+
 ![badruzbby github stats](https://github-readme-stats.vercel.app/api?username=badruzbby&show_icons=true&theme=tokyonight)
 <!---
 badruzbby/badruzbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
