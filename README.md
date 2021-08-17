@@ -9,7 +9,10 @@ My Name is Badruz, now Im focus on learning python language
   - JavaScript
 
 **Next ?**
-  - Machine learning
+  - ✨ Machine learning ✨
+
+**Member at : **
+  - [gh05tc0der](https://github.com/gh05tc0der)
 
 <br>
 ![badruzbby github stats](https://github-readme-stats.vercel.app/api?username=badruzbby&show_icons=true&theme=tokyonight)
